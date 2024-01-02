@@ -1,1 +1,3 @@
-### A third-level headingThis repo is used for finetune mamba using deepspeed
+### This repo is used for finetune mamba using deepspeed
+
+### How to use
