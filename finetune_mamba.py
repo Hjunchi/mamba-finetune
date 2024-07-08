@@ -1,8 +1,8 @@
 import json
 
-from transformers import AutoModel, AutoTokenizer, HfArgumentParser
+from transformers import HfArgumentParser
 
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer
 
 
 from mamba_ssm.models.mixer_seq_simple import MambaLMHeadModel
